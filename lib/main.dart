@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 
 import 'package:test01/weather/Loding.dart';
 
-import 'Test.dart';
-
 void main() {
   runApp(const MyApp());
 }
